@@ -1,0 +1,2 @@
+testing
+add shared lib1
